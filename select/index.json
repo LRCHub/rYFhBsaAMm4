@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ポストシェルター",
+  "base_artist": "稲葉曇",
+  "createdAt": "2026-03-09T17:08:47.100064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ポストシェルター",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/01_ポストシェルター_稲葉曇.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ポストシェルター (Post Shelter)",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/02_ポストシェルター_(Post_Shelter)_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ポストシェルター",
+      "artist": "稲葉曇 Vo. 弦巻マキ",
+      "has_synced": true,
+      "path": "select/03_ポストシェルター_稲葉曇_Vo._弦巻マキ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ポストシェルター",
+      "artist": "稲葉曇 Vo. 弦巻マキ",
+      "has_synced": true,
+      "path": "select/04_ポストシェルター_稲葉曇_Vo._弦巻マキ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ポストシェルター",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/05_ポストシェルター_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ポストシェルター",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/06_ポストシェルター_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ポストシェルター",
+      "artist": "稲葉曇",
+      "has_synced": true,
+      "path": "select/07_ポストシェルター_稲葉曇.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ポストシェルター",
+      "artist": "稲葉曇 feat.弦巻マキ",
+      "has_synced": true,
+      "path": "select/08_ポストシェルター_稲葉曇_feat.弦巻マキ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポストシェルター",
+      "artist": "稲葉曇",
+      "has_synced": false,
+      "path": "select/pl_01_ポストシェルター_稲葉曇.txt"
+    }
+  ]
+}
